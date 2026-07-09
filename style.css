@@ -23,7 +23,7 @@ header {
     article {
     display: flex;
 
-    border: 1px solid #474747
+   border: 1px solid #474747;
 
    margin: 16px;
    gap: 16px;
