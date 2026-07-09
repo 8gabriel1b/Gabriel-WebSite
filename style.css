@@ -4,7 +4,7 @@ body{
 
 
 header {
-    background-color: #183c63;
+    background-color: #474747;
     color: #FFFFFF;
     text-align: center;
     margin: 0 auto;
@@ -13,7 +13,7 @@ header {
 
  main {
     background-color: #FFFFFF;
-    color: #183c63;
+    color: #474747;
     margin: 0 auto;
     padding: 16px;
 
@@ -23,7 +23,7 @@ header {
     article {
     display: flex;
 
-    border: 1px solid #183c63
+    border: 1px solid #474747
 
    margin: 16px;
    gap: 16px;
