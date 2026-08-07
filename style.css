@@ -4,7 +4,7 @@ body{
 
 
 header {
-    background-color: #9e1f1f;
+    background-color: #F4F6F8;
     color: #FFFFFF;
     text-align: center;
     margin: 0 auto;
@@ -12,8 +12,8 @@ header {
 }
 
  main {
-    background-color: #57220d;
-    color: #9e1f1f;
+    background-color: #0F172A;
+    color: #F59E0B;
     margin: 0 auto;
     padding: 16px;
 
@@ -23,7 +23,7 @@ header {
     article {
     display: flex;
 
-   border: 1px solid #474747;
+   border: 1px solid #E0F2FE;
 
    margin: 16px;
    gap: 16px;
