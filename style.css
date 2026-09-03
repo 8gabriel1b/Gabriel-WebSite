@@ -64,3 +64,13 @@ header {
     .artigo-autor {
     font-weight: bold;
 }
+
+.btn-tema-escuro {
+    position: fixed;
+    buttom: 16px;
+    right: 16px;
+    font-size: 32px;
+    background-color: var(--cor-primaria);
+    border-radius: 50%;
+
+}
