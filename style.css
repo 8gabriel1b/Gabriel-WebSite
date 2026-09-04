@@ -8,7 +8,9 @@
 
 }
 
-
+* {
+    transition: background-color 0.3 ease;
+}
 
 .tema-escuro {
     --cor-primaria: #ccb7b7;
