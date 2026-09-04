@@ -9,9 +9,9 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #1E293B;
+    --cor-primaria: #FFFFFF;
     --cor-secundaria: #3B3029;
-    --cor-fundo: #0F172A;
+    --cor-fundo: #ffffff;
     --cor-texto: #F59E0B;
     --cor-contraste: #F59E0B;
     --cor-botao: #ffffff;
