@@ -79,7 +79,7 @@ header {
     article {
     display: flex;
 
-   border: 1px solid var(--cor-botao);
+   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 
    margin: 16px;
    gap: 16px;
