@@ -8,6 +8,8 @@
 
 }
 
+
+
 .tema-escuro {
     --cor-primaria: #ccb7b7;
     --cor-secundaria: #3B3029;
@@ -44,6 +46,10 @@ color: var(--cor-texto);
 
 .tema-escuro .artigo-autor {
     color: var(--cor-secundaria);
+}
+
+.tema-escuro .btn-tema-escuro {
+    background-color: var(--cor-botao);
 }
 
 body{
