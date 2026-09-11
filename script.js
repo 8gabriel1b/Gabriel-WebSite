@@ -19,11 +19,11 @@ const botoes = document.querySelectorAll("button");
 
         const btnTemaEscuro = document.querySelector(".btn-tema-escuro");
 
-        btnTemaEscuro.addEventListener("click", mudatema);
+        btnTemaEscuro.addEventListener("click", mudaTema);
 
-        function mudatema() {
+        function mudaTema() {
            const corpoPagina = document.body;
-           if (corpoPagina.classList.constains("tema-escuro")) {
+           if (corpoPagina.classList.contains("tema-escuro")) {
                corpoPagina.classList.remove("tema-escuro");
         } else {
             corpoPagina.classList.add("tema-escuro");
